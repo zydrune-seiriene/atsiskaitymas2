@@ -1,0 +1,10 @@
+#img-container li {
+    list-style:none;
+    display: inline-block;
+}
+
+#img-container li img {
+    padding: 20px;
+    width: 280px;
+    height: 200px;
+}
